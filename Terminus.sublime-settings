@@ -1,12 +1,12 @@
 {
-"theme": "user",
-"user_theme_colors":
-{
-    "background":           "#0c1021",
-    "foreground":           "#f8f8f8",
-    "caret":                "#f8f8f8",
-    "block_caret":          "#f8f8f8",
-    "selection":            "#f8f8f8",
-    "selection_foreground": "#0c1021",
-},
+    "theme": "user",
+    "user_theme_colors":
+    {
+        "background":           "#0c1021",
+        "foreground":           "#f8f8f8",
+        "caret":                "#f8f8f8",
+        "block_caret":          "#f8f8f8",
+        "selection":            "#f8f8f8",
+        "selection_foreground": "#0c1021",
+    },
 }
