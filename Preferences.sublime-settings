@@ -41,7 +41,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"BracketHighlighter",
 		"Vintage"
 	],
 	"inverse_caret_state": true,
