@@ -35,9 +35,11 @@
 	"font_options":
 	[
 		"no_bold",
-		"no_italic"
+		"no_italic",
+		"directwrite",
+		"dwrite_cleartype_natural"
 	],
-	"font_size": 7,
+	"font_size": 7.5,
 	"highlight_line": true,
 	"ignored_packages":
 	[
