@@ -37,7 +37,7 @@
 		"no_bold",
 		"no_italic",
 		"directwrite",
-		"subpixel_antialias"
+		"subpixel_antialias",
 	],
 	"font_size": 7,
 	"highlight_line": true,
