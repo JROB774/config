@@ -1,0 +1,64 @@
+{
+	"animation_enabled": false,
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.sublime-project"
+	],
+	"fold_buttons": false,
+	"fold_buttons_fade": false,
+	"font_face": "Liberation Mono Bold",
+	"font_options":
+	[
+		"no_bold",
+		"no_italic",
+		"directwrite",
+		"subpixel_antialias"
+	],
+	"font_size": 7,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"SyncedSideBar",
+		"Vintage"
+	],
+	"inverse_caret_state": true,
+	"margin": 10,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"scroll_past_end": true,
+	"scroll_speed": 0,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}

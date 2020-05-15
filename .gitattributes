@@ -1,0 +1,4 @@
+*.sublime-keymap       linguist-language=JSON
+*.sublime-mousemap     linguist-language=JSON
+*.sublime-settings     linguist-language=JSON
+*.sublime-color-scheme linguist-language=JSON
