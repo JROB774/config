@@ -44,7 +44,8 @@
 	"ignored_packages":
 	[
 		"SyncedSideBar",
-		"Vintage"
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"inverse_caret_state": true,
 	"margin": 10,
