@@ -26,8 +26,7 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace",
-		"*.sublime-project"
+		"*.sublime-workspace"
 	],
 	"fold_buttons": false,
 	"fold_buttons_fade": false,
