@@ -2,16 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"A File Icon",
-		"Emmet"
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"Alignment",
 		"AutoFileName",
 		"Dotfiles Syntax Highlighting",
-		"Emmet",
 		"MarkdownPreview",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
