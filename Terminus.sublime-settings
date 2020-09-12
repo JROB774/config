@@ -2,11 +2,11 @@
     "theme": "user",
     "user_theme_colors":
     {
-        "background":           "#0c1021",
-        "foreground":           "#f8f8f8",
-        "caret":                "#f8f8f8",
-        "block_caret":          "#f8f8f8",
-        "selection":            "#f8f8f8",
-        "selection_foreground": "#0c1021",
+        "background":           "#000000",
+        "foreground":           "#B5BD68",
+        "caret":                "#B5BD68",
+        "block_caret":          "#B5BD68",
+        "selection":            "#B5BD68",
+        "selection_foreground": "#000000",
     },
 }

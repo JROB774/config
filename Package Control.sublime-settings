@@ -7,14 +7,21 @@
 	[
 		"Alignment",
 		"AutoFileName",
+		"BlackRain",
+		"Color Scheme - Baara Dark",
+		"Dark Neon Color Scheme",
+		"DistractionFreeWindow",
 		"Dotfiles Syntax Highlighting",
 		"MarkdownPreview",
+		"OLED Color Scheme",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"Package Syncing",
 		"RGBDS",
 		"SideBarEnhancements",
 		"SyncedSideBar",
-		"Terminus"
+		"Terminus",
+		"Theme - Vim Blackboard",
+		"Ublime Color Schemes"
 	]
 }
