@@ -3,8 +3,8 @@
 	"animation_enabled": false,
 	"block_caret": true,
 	"bold_folder_labels": true,
-	"caret_style": "blink",
-	"color_scheme": "Packages/Color Scheme - Baara Dark/Baara Dark.tmTheme",
+	"caret_style": "solid",
+	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -32,7 +32,7 @@
 	],
 	"fold_buttons": false,
 	"fold_buttons_fade": false,
-	"font_face": "MiscFixedSC613",
+	"font_face": "Liberation Mono",
 	"font_options":
 	[
 		"no_bold",
@@ -40,14 +40,13 @@
 		"directwrite",
 		"subpixel_antialias"
 	],
-	"font_size": 9,
+	"font_size": 7,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"SyncedSideBar",
 		"Vintage"
 	],
-	"inverse_caret_state": true,
 	"margin": 4,
 	"rulers":
 	[
@@ -58,7 +57,7 @@
 	"scroll_speed": 0,
 	"show_line_endings": true,
 	"tab_size": 4,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "ayu-dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"trim_trailing_white_space_on_save": true,
