@@ -5,25 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
 		"AutoFileName",
 		"ayu",
-		"BlackRain",
-		"Color Scheme - Baara Dark",
-		"Dark Neon Color Scheme",
-		"DistractionFreeWindow",
 		"Dotfiles Syntax Highlighting",
-		"MarkdownPreview",
-		"OLED Color Scheme",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"Package Syncing",
 		"RGBDS",
-		"Seti_UI",
-		"SideBarEnhancements",
-		"SyncedSideBar",
-		"Terminus",
-		"Theme - Vim Blackboard",
-		"Ublime Color Schemes"
+		"Seti_UI"
 	]
 }
