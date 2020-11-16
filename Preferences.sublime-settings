@@ -44,10 +44,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"SyncedSideBar",
 		"Vintage"
 	],
 	"margin": 4,
+	"remember_full_screen": true,
 	"rulers":
 	[
 		80,
