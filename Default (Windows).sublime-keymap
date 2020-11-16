@@ -5,19 +5,7 @@
     { "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": { "setting": "word_wrap" } },
     { "keys": ["ctrl+alt+k"],   "command": "toggle_side_bar"         },
     { "keys": ["ctrl+alt+v"],   "command": "toggle_minimap"          },
-
-    // C/C++ Build
-    { "keys": ["f2"],        "command": "terminus_send_string", "args": { "string": "setup\n"     }},
-    { "keys": ["f5"],        "command": "terminus_send_string", "args": { "string": "build\n"     }},
-    { "keys": ["shift+f5"],  "command": "terminus_send_string", "args": { "string": "build\run\n" }},
-    { "keys": ["f6"],        "command": "terminus_send_string", "args": { "string": "linecount\n" }},
-    { "keys": ["f7"],        "command": "terminus_send_string", "args": { "string": "run\n"       }},
-    { "keys": ["f10"],       "command": "terminus_send_string", "args": { "string": "debug\n"     }},
-    { "keys": ["shift+f10"], "command": "terminus_send_string", "args": { "string": "debugvs\n"   }},
-    // Terminus
-    { "keys": ["f1"], "command": "toggle_terminus_panel" },
-    // Markdown
-    { "keys": ["f5"], "command": "markdown_preview", "args": { "target": "browser", "parser": "markdown" }, "context": [{ "key": "selector", "operator": "equal", "operand": "text.html.markdown" }] },
+    { "keys": ["alt+enter"],    "command": "toggle_full_screen"      },
 
     // Remove some key bindings we don't use that can be annoying.
     { "keys": ["ctrl++"],            "command": "noop" },
@@ -25,7 +13,4 @@
     { "keys": ["ctrl+keypad_plus"],  "command": "noop" },
     { "keys": ["ctrl+-"],            "command": "noop" },
     { "keys": ["ctrl+keypad_minus"], "command": "noop" },
-
-    // Spell-checking rebind because we use F6 for line count.
-    { "keys": ["shift+f6"], "command": "toggle_setting", "args": { "setting": "spell_check" } },
 ]
