@@ -5,11 +5,9 @@
 	],
 	"installed_packages":
 	[
-		"AutoFileName",
-		"Dotfiles Syntax Highlighting",
+		"Block Cursor Everywhere",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
-		"RGBDS",
-		"Seti_UI"
+		"RGBDS"
 	]
 }
