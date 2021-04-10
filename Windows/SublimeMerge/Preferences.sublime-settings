@@ -1,0 +1,14 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"diff_style": "auto",
+	"expand_merge_commits_by_default": true,
+	"font_face": "Liberation Mono",
+	"hardware_acceleration": "opengl",
+	"hide_menu": true,
+	"render_commit_dialog_message_at_top": false,
+	"side_bar_layout": "tabs",
+	"time_format": "system",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+}
